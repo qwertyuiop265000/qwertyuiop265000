@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Mindustry lol
 - 🌱 I’m currently learning ... how mod Mindustry
 - 💞️ I’m looking to collaborate on ... [N/A]
-- 📫 How to reach me ... 🤔 Good question...
+- 📫 How to reach me ...  qwertyuiop265000@gmail.com 
 Need help with .hjson modding? I've got your back!
 
 <!---
