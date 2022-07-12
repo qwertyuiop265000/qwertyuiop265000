@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... how mod Mindustry
 - 💞️ I’m looking to collaborate on ... [N/A]
 - 📫 How to reach me ... 🤔 Good question...
+Need help with .hjson modding? I've got your back!
 
 <!---
 qwertyuiop265000/qwertyuiop265000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
